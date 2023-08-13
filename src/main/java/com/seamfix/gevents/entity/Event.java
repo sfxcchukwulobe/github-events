@@ -1,4 +1,4 @@
-package com.seamfix.gevents.model;
+package com.seamfix.gevents.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

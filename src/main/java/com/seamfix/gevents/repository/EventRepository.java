@@ -1,6 +1,6 @@
 package com.seamfix.gevents.repository;
 
-import com.seamfix.gevents.model.Event;
+import com.seamfix.gevents.entity.Event;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

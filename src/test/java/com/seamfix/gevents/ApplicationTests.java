@@ -2,7 +2,7 @@ package com.seamfix.gevents;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.seamfix.gevents.model.Event;
+import com.seamfix.gevents.entity.Event;
 import com.seamfix.gevents.repository.EventRepository;
 import org.junit.Assert;
 import org.junit.Before;

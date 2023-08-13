@@ -31,7 +31,7 @@ Example of an event data JSON object:
 
 
 ## Requirements:
-You are provided with the implementation of the Event model. The REST service must expose the `/events` endpoint, which allows for managing the collection of event records in the following way:
+You are provided with the implementation of the Event entity. The REST service must expose the `/events` endpoint, which allows for managing the collection of event records in the following way:
 
 `POST` request to `/events` :
 * creates a new event
