@@ -280,7 +280,4 @@ public class ApplicationTests {
 
         return data;
     }
-
-    // Test comment
-    // Another test comment
 }
