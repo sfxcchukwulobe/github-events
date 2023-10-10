@@ -282,4 +282,5 @@ public class ApplicationTests {
     }
 
     // Test comment
+    // Another test comment
 }
